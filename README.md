@@ -15,7 +15,9 @@ curl -sL https://raw.githubusercontent.com/phoenixbyrd/Termux_XFCE/main/install.
 ```
 &nbsp;
 
-#setup.sh file is an old version of install.sh and is not required
+**Notes**
+1. setup.sh file is an old version of install.sh and is not required
+2. When a prompt comes 'Please enter username for proot installation:' do not leave it blank else there would be an error in installation
 
 Join the Discord for any questions, help, suggestions, etc. [https://discord.gg/pNMVrZu5dm](https://discord.gg/pNMVrZu5dm)  
 
