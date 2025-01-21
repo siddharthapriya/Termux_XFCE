@@ -63,7 +63,7 @@ cp .fancybash.sh $PREFIX/var/lib/proot-distro/installed-rootfs/debian/home/$user
 echo "source ~/.fancybash.sh" >> $PREFIX/var/lib/proot-distro/installed-rootfs/debian/home/$username/.bashrc
 sed -i '327s/termux/proot/' $PREFIX/var/lib/proot-distro/installed-rootfs/debian/home/$username/.fancybash.sh
 
-wget https://github.com/phoenixbyrd/Termux_XFCE/raw/main/conky.tar.gz
+wget https://github.com/siddharthapriya/Termux_XFCE/raw/main/conky.tar.gz
 tar -xvzf conky.tar.gz
 rm conky.tar.gz
 mkdir $PREFIX/var/lib/proot-distro/installed-rootfs/debian/home/$username/.config
