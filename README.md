@@ -15,6 +15,7 @@ curl -sL https://raw.githubusercontent.com/phoenixbyrd/Termux_XFCE/main/install.
 ```
 &nbsp;
 
+#setup.sh file is an old version of install.sh and is not required
 
 Join the Discord for any questions, help, suggestions, etc. [https://discord.gg/pNMVrZu5dm](https://discord.gg/pNMVrZu5dm)  
 
